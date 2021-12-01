@@ -1,3 +1,4 @@
+// Algorithm ONE 
 const nemo = ['nemo'];
 
 function findNemo(array) {
@@ -12,3 +13,5 @@ function findNemo(array) {
 }
 
 findNemo(nemo);
+
+////////////////
